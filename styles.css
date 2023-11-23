@@ -2,3 +2,18 @@
 body {
     background-color: #71583f;
 }
+
+#title {
+    text-align: center;
+}
+
+img {
+    display:block;
+    
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+  }
+  
