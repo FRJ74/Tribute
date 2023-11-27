@@ -8,13 +8,17 @@ body {
     color: bisque;
 }
 
-img {
-    display:flex;
-    
-  }
+#img-div {
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+  border-radius: 25px;
   
-  #image {
-    max-width: 100%;
-    height: auto;
-  }
+}
+  
+  
   
